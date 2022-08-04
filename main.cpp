@@ -11,7 +11,8 @@
 
 
 void pantalla(){
-	
+	int xd;
+	int maik;
 }
 
 int main (int argc, char **argv) {
